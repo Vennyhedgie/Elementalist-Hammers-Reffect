@@ -7,7 +7,7 @@ A more visible UI element for Elementalist's hammer orb mechanic.
 
 
 # How to use
-Simply download the zip file to your reffect root folder like so:
+First, download the zip file to your reffect root folder like so:
 
 <img width="497" height="212" alt="image" src="https://github.com/user-attachments/assets/50b87527-7ef0-4483-9b25-68b4b8d68199" />
 
@@ -15,6 +15,8 @@ Then right click > Extract here (the necessary files will be added to the packs 
 
 Then, return to reffect ingame and refresh packs.
 
-# Notes
+Finally, enable your interface size of choice:
 
-This effect is made with Normal interface size. If you use a different one, you can resize all the elements at once by right-clicking on the pack and selecting resize. Alternatively, you can move the pack's position on screen if needed, though it should be aligned by default.
+<img width="275" height="112" alt="image" src="https://github.com/user-attachments/assets/c10321f2-e882-42b3-9160-c2dd4b4dad68" />
+
+<img width="589" height="242" alt="image" src="https://github.com/user-attachments/assets/b8e6cf96-18f7-4a0c-b00e-c8b0c2d9a68d" />
